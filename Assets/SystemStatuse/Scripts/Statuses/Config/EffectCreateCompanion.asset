@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e15737bffc6b9de458bccf25e2733b7a, type: 3}
+  m_Name: EffectCreateCompanion
+  m_EditorClassIdentifier: 
+  _id: CreateCompanionRhinoceros
+  _name: "\u041D\u043E\u0441\u043E\u0440\u043E\u0433"
+  _type: 2
+  _targetType: 4
+  _valueCurentStacks: 1
+  _maxStacks: 1
+  _effectDescription: "\u041F\u0440\u0438\u0437\u0432\u0430\u0442\u044C \u043D\u043E\u0441\u043E\u0440\u043E\u0433\u0430"
+  _canStack: 0
+  _canBeSpent: 0
+  _canBeMoved: 0
+  _durationType: 3
+  _removeConditionType: 0
+  _triggerLogicType: 6
+  _duration: 0
+  _turnsRemaining: 0
+  _effects:
+  - {fileID: 3475588889521347968, guid: 29e830546d2114243938e4d57cb024bf, type: 3}

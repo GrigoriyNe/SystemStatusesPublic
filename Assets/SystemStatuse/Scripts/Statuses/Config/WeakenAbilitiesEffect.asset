@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e15737bffc6b9de458bccf25e2733b7a, type: 3}
+  m_Name: WeakenAbilitiesEffect
+  m_EditorClassIdentifier: 
+  _id: WeakenAbilitiesEffect
+  _name: "\u041F\u0440\u043E\u043A\u043B\u044F\u0442\u044C\u0435"
+  _type: 1
+  _targetType: 2
+  _valueCurentStacks: 1
+  _maxStacks: 5
+  _effectDescription: "\u041E\u0441\u043B\u0430\u0431\u043B\u0435\u043D\u0438\u0435
+    \u0441\u043F\u043E\u0441\u043E\u0431\u043D\u043E\u0441\u0442\u0438 "
+  _canStack: 1
+  _canBeSpent: 0
+  _canBeMoved: 1
+  _durationType: 2
+  _removeConditionType: 0
+  _triggerLogicType: 6
+  _duration: 0
+  _turnsRemaining: 2
+  _effects:
+  - {fileID: 7157028438142539062, guid: a5859a40499242841a09f6e2a01435ba, type: 3}

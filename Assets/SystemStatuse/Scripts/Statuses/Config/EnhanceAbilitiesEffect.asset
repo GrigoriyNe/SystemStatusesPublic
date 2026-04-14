@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e15737bffc6b9de458bccf25e2733b7a, type: 3}
+  m_Name: EnhanceAbilitiesEffect
+  m_EditorClassIdentifier: 
+  _id: EnhanceAbilitiesEffect
+  _name: "\u042F\u0441\u043D\u043E\u0441\u0442\u044C"
+  _type: 0
+  _targetType: 0
+  _valueCurentStacks: 1
+  _maxStacks: 5
+  _effectDescription: "\u0423\u0441\u0438\u043B\u0438\u0432\u0430\u0435\u0442 \u0441\u043F\u043E\u0441\u043E\u0431\u043D\u043E\u0441\u0442\u0438"
+  _canStack: 1
+  _canBeSpent: 0
+  _canBeMoved: 1
+  _durationType: 2
+  _removeConditionType: 0
+  _triggerLogicType: 6
+  _duration: 0.1
+  _turnsRemaining: 2
+  _effects:
+  - {fileID: 8799092548388659744, guid: 57ab0652522189d4f8075b2f4083fc62, type: 3}

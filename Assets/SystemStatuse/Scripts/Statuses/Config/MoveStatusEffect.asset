@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e15737bffc6b9de458bccf25e2733b7a, type: 3}
+  m_Name: MoveStatusEffect
+  m_EditorClassIdentifier: 
+  _id: MoveStatusEffect
+  _name: "\u041F\u0435\u0440\u0435\u043C\u0435\u0449\u0435\u043D\u0438\u0435 \u0441\u0442\u0430\u0442\u0443\u0441\u0430"
+  _type: 0
+  _targetType: 5
+  _valueCurentStacks: 1
+  _maxStacks: 2
+  _effectDescription: "\u041F\u0435\u0440\u0435\u043C\u0435\u0449\u0435\u043D\u0438\u0435"
+  _canStack: 0
+  _canBeSpent: 0
+  _canBeMoved: 0
+  _durationType: 3
+  _removeConditionType: 1
+  _triggerLogicType: 6
+  _duration: 0.5
+  _turnsRemaining: 0
+  _effects:
+  - {fileID: -5258906275321534638, guid: 4ecd750c8f05c824f88359f3430af7ab, type: 3}
